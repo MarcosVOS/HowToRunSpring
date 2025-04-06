@@ -1,43 +1,43 @@
-# Requisito Criar uma conta no github 
+# Requisito: Criar uma conta no GitHub 
 [Criar conta no github](https://github.com/signup?source=login)
 
-### 1. Após a criação da conta acessar 
+### 1. Após criar sua conta, acesse a página inicial do GitHub 
 [Acessar a tela inicial do github](https://github.com/)
 
-### 2. Na tela home clicar no botão new  
+### 2. Na tela inicial (home), clique no botão New  
 ![alt text](https://github.com/MarcosVOS/HowToRunSpring/blob/main/docs/img13.png)
 
-### 3. Após isso ira aparecer uma tela assim   
+### 3. Em seguida, será exibida uma tela como esta:   
 ![alt text](https://github.com/MarcosVOS/HowToRunSpring/blob/main/docs/img14.png)
 
-### 4. Após isso em Repository name definir o nome do do repositorio   
+### 4. No campo Repository name, defina o nome do repositório   
 ![alt text](https://github.com/MarcosVOS/HowToRunSpring/blob/main/docs/img15.png)
 
-### 5. Após escrever o nome do repositorio (no exemplo coloquei demo) clicar no botão Create Repository   
+### 5. Após definir o nome (no exemplo usamos "demo"), clique em Create repository   
 ![alt text](https://github.com/MarcosVOS/HowToRunSpring/blob/main/docs/img16.png)
 
-### 6. Após criar o repositorio ira aparecer uma tela assim   
+### 6. O repositório será criado e você verá uma tela como esta:   
 ![alt text](https://github.com/MarcosVOS/HowToRunSpring/blob/main/docs/img17.png)
 
-### 7. Agora clicar no botão no link "uploading an existing file."   
+### 7. Agora, clique no link “uploading an existing file.”   
 ![alt text](https://github.com/MarcosVOS/HowToRunSpring/blob/main/docs/img18.png)
 
-### 8. Ira aparecer uma tela assim    
+### 8. Será exibida uma tela semelhante a esta:    
 ![alt text](https://github.com/MarcosVOS/HowToRunSpring/blob/main/docs/img19.png)
 
-### 9. Após isso pegar o arquivo que foi baixado     
+### 9. Localize o arquivo que foi baixado anteriormente     
 ![alt text](https://github.com/MarcosVOS/HowToRunSpring/blob/main/docs/img12.png)
 
-### 10. Pegar o arquivo que foi baixado e anexar nessa parte     
+### 10. Anexe o arquivo na área indicada da tela de upload     
 ![alt text](https://github.com/MarcosVOS/HowToRunSpring/blob/main/docs/img19_1.png)
 
-### 11. Após anexar o arquivo deve aparecer assim     
+### 11. Após o upload, o arquivo aparecerá assim na tela:     
 ![alt text](https://github.com/MarcosVOS/HowToRunSpring/blob/main/docs/img20_1.png)
 
-### 12. Após anexar o arquivo cicar no botão Commit Changes     
+### 12. Clique no botão Commit changes para concluir o envio     
 ![alt text](https://github.com/MarcosVOS/HowToRunSpring/blob/main/docs/img21.png)
 
-### 13. Caso tudo tenha dado certo ira aparecer uma tela assim     
+### 13. Se tudo deu certo, você verá uma tela como esta:     
 ![alt text](https://github.com/MarcosVOS/HowToRunSpring/blob/main/docs/img22_1.png)
 
 
