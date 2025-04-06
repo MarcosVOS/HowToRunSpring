@@ -1,40 +1,40 @@
-# Como rodar o Spring no codespace 
+# Como rodar um projeto Spring no Codespace 
 
-### 1. Clicar no botão code 
+### 1. Clique no botão Code 
 ![alt text](https://github.com/MarcosVOS/HowToRunSpring/blob/main/docs/img23.png)
 
-### 2. Após clicar no botão code ira aparecer um modal assim 
+### 2. Após clicar no botão Code, será exibido um modal como este: 
 ![alt text](https://github.com/MarcosVOS/HowToRunSpring/blob/main/docs/img24.png)
 
-### 3. Após isso clicar em CodeSpace 
+### 3. Em seguida, clique na opção Codespaces 
 ![alt text](https://github.com/MarcosVOS/HowToRunSpring/blob/main/docs/img25.png)
 
-### 4. Após isso clicar em "Create codespace on main" 
+### 4. Depois, clique em Create codespace on main 
 ![alt text](https://github.com/MarcosVOS/HowToRunSpring/blob/main/docs/img26.png)
 
-### 5. Caso tudo tenha dado certo sera exibido uma tela assim 
+### 5. Se tudo estiver correto, você verá uma tela como esta: 
 ![alt text](https://github.com/MarcosVOS/HowToRunSpring/blob/main/docs/img27.png)
 
-### 6. Após isso no terminal escreva 
+### 6. No terminal, execute o seguinte comando para descompactar os arquivos: 
 ```bash
   unzip *
 ```
 ![alt text](https://github.com/MarcosVOS/HowToRunSpring/blob/main/docs/img29.png)
 
-### 7. Após ira aparecer no terminal isso 
+### 7. Após executar, o terminal exibirá algo semelhante a isso: 
 ![alt text](https://github.com/MarcosVOS/HowToRunSpring/blob/main/docs/img30.png)
 
-### 8. Após escreva no terminal isso
+### 8. Acesse a pasta descompactada com o comando:
 ```bash
   cd */
 ```
 ![alt text](https://github.com/MarcosVOS/HowToRunSpring/blob/main/docs/img31.png)
 
-### 9. Após escreva no terminal isso
+### 9. Em seguida, execute o projeto com:
 ```bash
   ./mvnw spring-boot:run
 ```
 ![alt text](https://github.com/MarcosVOS/HowToRunSpring/blob/main/docs/img32.png)
 
-### 10. Caso tudo tenha dado certo ira aparecer isso
+### 10. Se tudo estiver funcionando corretamente, você verá uma saída como esta no terminal:
 ![alt text](https://github.com/MarcosVOS/HowToRunSpring/blob/main/docs/img33.png)
